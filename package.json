@@ -41,7 +41,7 @@
     "xstream": "^9.0.0"
   },
   "dependencies": {
-    "express": "^4.14.0",
+    "express": "^4.17.3",
     "http-proxy-middleware": "^0.17.2"
   },
   "jest": {
